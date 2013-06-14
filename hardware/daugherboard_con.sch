@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Wed 06 Feb 2013 01:14:25 PM CET
+EESchema Schematic File Version 2
 LIBS:ad9862
 LIBS:power
 LIBS:device
@@ -32,14 +32,16 @@ LIBS:contrib
 LIBS:valves
 LIBS:fmc_lpc
 LIBS:lt1085cm
+LIBS:sdrpower
+LIBS:AD9522
 LIBS:zedsdr-cache
-EELAYER 25  0
+EELAYER 24 0
 EELAYER END
-$Descr A4 11700 8267
+$Descr A4 11693 8268
 encoding utf-8
-Sheet 1 7
+Sheet 2 7
 Title ""
-Date "6 feb 2013"
+Date "10 may 2013"
 Rev ""
 Comp ""
 Comment1 ""

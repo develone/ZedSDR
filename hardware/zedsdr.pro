@@ -1,6 +1,6 @@
-update=Wed 06 Feb 2013 11:42:20 AM CET
+update=Fri 10 May 2013 08:33:06 PM CEST
 version=1
-last_client=eeschema
+last_client=kicad
 [cvpcb]
 version=1
 NetIExt=net
@@ -36,35 +36,10 @@ LibName8=led
 LibName9=dip_sockets
 LibName10=pga_sockets
 LibName11=valves
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=
-NetFmt=1
-HPGLSpd=20
-HPGLDm=15
-HPGLNum=1
-offX_A4=0
-offY_A4=0
-offX_A3=0
-offY_A3=0
-offX_A2=0
-offY_A2=0
-offX_A1=0
-offY_A1=0
-offX_A0=0
-offY_A0=0
-offX_A=0
-offY_A=0
-offX_B=0
-offY_B=0
-offX_C=0
-offY_C=0
-offX_D=0
-offY_D=0
-offX_E=0
-offY_E=0
+NetFmtName=
 RptD_X=0
 RptD_Y=100
 RptLab=1
@@ -103,3 +78,7 @@ LibName30=contrib
 LibName31=valves
 LibName32=fmc_lpc
 LibName33=lt1085cm
+LibName34=sdrpower
+LibName35=AD9522
+[general]
+version=1
